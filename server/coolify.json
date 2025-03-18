@@ -5,5 +5,9 @@
     "port_exposes": "3001",
     "settings": {
         "is_static": false
+    },
+    "commands": {
+        "build": "npm install && npm run build",
+        "start": "node server.js"
     }
 }

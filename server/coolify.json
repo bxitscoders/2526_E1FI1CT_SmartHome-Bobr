@@ -1,5 +1,5 @@
 {
-    "build_pack": "test",
+    "build_pack": "nixpacks",
     "base_directory": "/server",
     "publish_directory": "/",
     "port_exposes": "3001",
